@@ -1,0 +1,3 @@
+WWID|Geo_ID|Period|Allowance_Type|Allowance_Value|Taxable|Monthly_Proration_Flag|Reporting_Flag|PAYMENT_FREQUENCY
+1038469|T930-TRM|202504|P3 Coverage Payment-T930-TRM|5000||N|Y|
+152940677|T435-TRM|202504|P2 Coverage Payment-T435-TRM|5000||N|Y|
